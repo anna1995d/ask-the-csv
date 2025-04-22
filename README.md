@@ -3,7 +3,7 @@
 **Ask natural language questions about your CSV files using GPT.**  
 This Streamlit app lets you upload a CSV file, view a summary of its structure, and ask GPT questions about the data — all in one clean interface.
 
----
+
 
 ## 🔧 Features
 
@@ -14,7 +14,7 @@ This Streamlit app lets you upload a CSV file, view a summary of its structure, 
 - Maintain and display session-based Q&A history
 - Clear chat history on demand
 
----
+
 
 ## 🚀 Getting Started
 
@@ -49,7 +49,7 @@ Create a `.env` file in the root directory with your API key:
 OPENAI_API_KEY=your_openai_api_key
 ```
 
----
+
 
 ## ▶️ Running the App
 
@@ -63,7 +63,7 @@ Or directly:
 streamlit run app.py
 ```
 
----
+
 
 ## 🛠️ Developer Utilities
 
@@ -73,7 +73,7 @@ make format     # Format code using Black
 make clean      # Remove cache and temp files
 ```
 
----
+
 
 ## 📦 Requirements
 
@@ -81,7 +81,7 @@ make clean      # Remove cache and temp files
 - OpenAI account & API key
 - Streamlit, pandas, openai, python-dotenv
 
----
+
 
 ## 🪪 License
 
